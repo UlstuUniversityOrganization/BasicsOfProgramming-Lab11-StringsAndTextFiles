@@ -1,0 +1,3 @@
+Hello, how are you?
+Note, do you see?
+All the words with letter A are replaced by the word NOP!
